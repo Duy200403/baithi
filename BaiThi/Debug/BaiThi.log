@@ -1,0 +1,5 @@
+﻿  BaiThi.cpp
+  Utils.cpp
+  Generating Code...
+E:\Bài thi\BaiThi\BaiThi\BaiThi.cpp(56): warning C4715: 'findByName': not all control paths return a value
+  BaiThi.vcxproj -> E:\Bài thi\BaiThi\Debug\BaiThi.exe
